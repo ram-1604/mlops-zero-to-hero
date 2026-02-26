@@ -47,7 +47,7 @@ A mathematical function the computer created
 
 It takes inputs (flower measurements)
 
-It outputs predictions (species)
+It gives outputs predictions (species)
 
 Example: Flower Species Model
 
